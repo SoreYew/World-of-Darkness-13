@@ -56096,9 +56096,6 @@
 /obj/effect/decal/wallpaper,
 /turf/closed/wall/vampwall/painted,
 /area/vtm/interior/police)
-"rVo" = (
-/turf/open/openspace,
-/area/vtm/fishermanswharf)
 "rVC" = (
 /obj/structure/chair/sofa/corner,
 /turf/open/floor/plating/parquetry/old,
@@ -61927,7 +61924,7 @@
 	dir = 4
 	},
 /obj/effect/decal/bordur/corner,
-/turf/open/openspace,
+/turf/open/floor/plating/sidewalk/poor,
 /area/vtm/fishermanswharf)
 "uRU" = (
 /turf/open/floor/plating/granite,
@@ -62653,13 +62650,6 @@
 /obj/fusebox,
 /turf/open/floor/plating/parquetry/rich,
 /area/vtm/interior/millennium_tower/ventrue)
-"vmC" = (
-/obj/structure/vampfence,
-/obj/effect/decal/bordur{
-	dir = 4
-	},
-/turf/open/openspace,
-/area/vtm/fishermanswharf)
 "vmE" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 5
@@ -66859,7 +66849,7 @@
 /obj/effect/decal/bordur{
 	dir = 8
 	},
-/turf/open/openspace,
+/turf/open/floor/plating/sidewalk/poor,
 /area/vtm/fishermanswharf)
 "xmK" = (
 /obj/machinery/light/prince{
@@ -155922,9 +155912,9 @@ ubl
 ubl
 ubl
 fmd
-rVo
-rVo
-rVo
+aMp
+aMp
+aMp
 aMp
 lIE
 aoS
@@ -156179,9 +156169,9 @@ ubl
 ubl
 ubl
 fmd
-rVo
-rVo
-rVo
+aMp
+aMp
+aMp
 aMp
 ohX
 aoS
@@ -156436,9 +156426,9 @@ ubl
 ubl
 ubl
 fmd
-rVo
-rVo
-rVo
+aMp
+aMp
+aMp
 aMp
 fVq
 aoS
@@ -156693,9 +156683,9 @@ ubl
 ubl
 ubl
 fmd
-rVo
-rVo
-rVo
+aMp
+aMp
+aMp
 aMp
 teU
 aoS
@@ -156950,9 +156940,9 @@ ubl
 ubl
 ubl
 fmd
-rVo
-rVo
-rVo
+aMp
+aMp
+aMp
 aMp
 lIE
 aoS
@@ -157207,9 +157197,9 @@ fmd
 pfx
 ubl
 fmd
-rVo
-rVo
-rVo
+aMp
+aMp
+aMp
 aMp
 lIE
 aoS
@@ -157464,9 +157454,9 @@ dxf
 ubl
 ubl
 fmd
-vmC
-vmC
-vmC
+jyu
+jyu
+jyu
 jyu
 soc
 apw
@@ -157723,7 +157713,7 @@ ubl
 fmd
 xmx
 uRH
-rVo
+apx
 apx
 apx
 apx
