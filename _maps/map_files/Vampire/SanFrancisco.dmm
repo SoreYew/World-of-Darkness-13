@@ -36810,7 +36810,7 @@
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/interior/techshop)
 "hOh" = (
-/obj/structure/table/wood/bar,
+/obj/structure/table/wood,
 /turf/open/floor/carpet,
 /area/vtm/fishermanswharf)
 "hOi" = (
@@ -51312,10 +51312,6 @@
 /obj/structure/punching_bag,
 /turf/open/floor/plating/rough,
 /area/vtm/interior)
-"pyH" = (
-/obj/structure/table/wood/bar,
-/turf/open/floor/carpet,
-/area/vtm/anarch)
 "pyV" = (
 /obj/structure/table/wood,
 /obj/item/canvas/twentythree_nineteen{
@@ -58341,7 +58337,7 @@
 /turf/open/floor/plating/sidewalk/poor,
 /area/vtm/ghetto)
 "tan" = (
-/obj/structure/table/wood/bar,
+/obj/structure/table/wood,
 /turf/closed/wall/vampwall/bar/low,
 /area/vtm/fishermanswharf)
 "taC" = (
@@ -151294,7 +151290,7 @@ rFp
 rFp
 gjj
 aes
-pyH
+aDc
 aDb
 aDb
 aDb
@@ -151551,7 +151547,7 @@ axa
 axa
 csL
 aDb
-pyH
+aDc
 aDb
 aDb
 aDb
@@ -151808,7 +151804,7 @@ axa
 axa
 csL
 aDb
-pyH
+aDc
 aDb
 aDb
 aDb
@@ -152065,7 +152061,7 @@ axa
 axa
 csL
 aDb
-pyH
+aDc
 aDb
 aDb
 aDb
@@ -152322,7 +152318,7 @@ axa
 axa
 csL
 aDb
-pyH
+aDc
 aDb
 aDb
 aDb
@@ -152579,7 +152575,7 @@ axa
 axa
 csL
 aDb
-pyH
+aDc
 aDb
 aDb
 aDb
@@ -152836,7 +152832,7 @@ axa
 axa
 csL
 aDb
-pyH
+aDc
 aDb
 aDb
 aDb
@@ -153093,8 +153089,8 @@ axa
 axa
 csL
 aDb
-pyH
-pyH
+aDc
+aDc
 aDb
 aDb
 dpF
@@ -153351,8 +153347,8 @@ axa
 csL
 aes
 aDb
-pyH
-pyH
+aDc
+aDc
 aDb
 dpF
 ugc
