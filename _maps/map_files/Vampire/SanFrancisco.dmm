@@ -36860,10 +36860,10 @@
 /turf/open/floor/carpet/blue,
 /area/vtm/interior/police)
 "hHo" = (
-/obj/projectile/magic/locker,
 /obj/item/clothing/suit/vampire/jacket,
 /obj/item/clothing/under/vampire/punk,
 /obj/item/clothing/shoes/vampire/jackboots,
+/obj/structure/closet,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/anarch)
 "hHJ" = (
