@@ -26865,6 +26865,12 @@
 	},
 /turf/open/floor/plating/vampplating,
 /area/vtm/interior/police)
+"cRv" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/turf/open/floor/plating/concrete,
+/area/vtm/anarch)
 "cRJ" = (
 /turf/closed/wall/vampwall/old/low/window,
 /area/vtm/interior/chantry)
@@ -29496,10 +29502,6 @@
 	},
 /turf/open/floor/plating/sidewalk,
 /area/vtm/ghetto)
-"egr" = (
-/obj/structure/stairs/east,
-/turf/open/floor/plating/concrete,
-/area/vtm/anarch)
 "egw" = (
 /obj/structure/chair{
 	dir = 8
@@ -38877,6 +38879,12 @@
 	},
 /turf/open/indestructible/necropolis/air,
 /area/vtm/interior/endron_facility)
+"iNO" = (
+/obj/structure/railing{
+	dir = 4
+	},
+/turf/open/floor/plating/parquetry/old,
+/area/vtm/anarch)
 "iNS" = (
 /obj/structure/window/reinforced/indestructable{
 	alpha = 0;
@@ -39536,6 +39544,13 @@
 /obj/structure/table/wood/fancy,
 /turf/open/floor/carpet,
 /area/vtm/interior/giovanni)
+"jbt" = (
+/obj/machinery/light/small{
+	dir = 1;
+	pixel_y = -16
+	},
+/turf/open/floor/plating/concrete,
+/area/vtm/anarch)
 "jbu" = (
 /obj/structure/window/reinforced/indestructable{
 	alpha = 0;
@@ -40018,11 +40033,6 @@
 	},
 /turf/open/floor/plating/sidewalk/old,
 /area/vtm/graveyard)
-"jmF" = (
-/obj/item/mop,
-/obj/structure/mopbucket,
-/turf/open/floor/plating/parquetry/old,
-/area/vtm/anarch)
 "jmI" = (
 /obj/structure/fire_barrel,
 /turf/open/floor/plating/vampgrass,
@@ -40294,6 +40304,9 @@
 /obj/structure/sink{
 	pixel_y = 16
 	},
+/obj/structure/mopbucket,
+/obj/item/mop,
+/obj/item/reagent_containers/glass/bucket,
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/anarch)
 "juq" = (
@@ -44038,11 +44051,6 @@
 /obj/effect/vip_barrier/stripclub,
 /turf/open/floor/plating/concrete,
 /area/vtm/interior/strip)
-"lxG" = (
-/obj/item/stack/dollar/hundred,
-/obj/item/stack/dollar/hundred,
-/turf/open/floor/plating/concrete,
-/area/vtm/anarch)
 "lxI" = (
 /obj/structure/table,
 /obj/structure/vampfence/rich{
@@ -44324,12 +44332,6 @@
 	},
 /turf/open/floor/plating/vampplating,
 /area/vtm/interior/techshop)
-"lGJ" = (
-/obj/machinery/light{
-	pixel_y = 32
-	},
-/turf/open/floor/plating/parquetry/old,
-/area/vtm/anarch)
 "lGL" = (
 /obj/structure/chair/plastic{
 	dir = 4
@@ -45046,6 +45048,15 @@
 	},
 /turf/open/floor/plating/vampgrass,
 /area/vtm/interior/bianchiBank)
+"mas" = (
+/obj/structure/railing{
+	dir = 8
+	},
+/obj/structure/chair/plastic{
+	dir = 1
+	},
+/turf/open/floor/plating/concrete,
+/area/vtm/anarch)
 "maD" = (
 /obj/item/storage/fancy/egg_box,
 /obj/item/storage/fancy/egg_box,
@@ -55596,6 +55607,10 @@
 /obj/structure/vamprocks,
 /turf/open/floor/plating/sidewalk/old,
 /area/vtm/graveyard)
+"rxX" = (
+/obj/structure/stairs/south,
+/turf/open/floor/plating/concrete,
+/area/vtm/anarch)
 "rya" = (
 /turf/open/floor/mineral/plastitanium,
 /area/vtm/cabaret)
@@ -57570,6 +57585,7 @@
 	pixel_x = -14;
 	pixel_y = -13
 	},
+/obj/structure/table,
 /turf/open/floor/plating/concrete,
 /area/vtm/anarch)
 "szJ" = (
@@ -61868,7 +61884,9 @@
 /turf/open/floor/plating/sidewalk/poor,
 /area/vtm)
 "uJP" = (
-/obj/item/reagent_containers/glass/bucket,
+/obj/structure/chair/plastic{
+	dir = 8
+	},
 /turf/open/floor/plating/parquetry/old,
 /area/vtm/anarch)
 "uJQ" = (
@@ -63557,13 +63575,6 @@
 	density = 0
 	},
 /area/vtm/interior)
-"vDG" = (
-/obj/machinery/light{
-	dir = 1;
-	pixel_y = -17
-	},
-/turf/open/floor/plating/parquetry/old,
-/area/vtm/anarch)
 "vDM" = (
 /obj/structure/table/wood,
 /obj/machinery/light/small{
@@ -89226,9 +89237,9 @@ aer
 aab
 aab
 aab
-aaa
-aaa
-aaa
+aab
+aab
+aab
 aaa
 aaa
 aaa
@@ -89482,10 +89493,10 @@ hiY
 aer
 aer
 aer
+aer
+aer
+aer
 aab
-aaa
-aaa
-aaa
 aaa
 aaa
 aaa
@@ -89738,11 +89749,11 @@ azj
 bBB
 axa
 dMG
+aDN
+aDN
+rxX
 aer
 aab
-aaa
-aaa
-aaa
 aaa
 aaa
 aaa
@@ -89992,14 +90003,14 @@ wnD
 axa
 aDN
 szC
-lxG
+aDN
 qjg
 aDN
+aDN
+aDN
+rxX
 aer
 aab
-aaa
-aaa
-aaa
 aaa
 aaa
 aaa
@@ -90251,12 +90262,12 @@ aDN
 lKc
 aDN
 mtE
-egr
+aDN
+aDN
+cRv
+mas
 aer
 aab
-aaa
-aaa
-aaa
 aaa
 aaa
 aaa
@@ -90510,10 +90521,10 @@ aer
 aer
 aer
 aer
+aer
+aer
+aer
 aab
-aaa
-aaa
-aaa
 aaa
 aaa
 aaa
@@ -91793,7 +91804,7 @@ aDN
 vJB
 aDN
 qVy
-aDN
+jbt
 aer
 aHB
 aHB
@@ -152164,7 +152175,7 @@ oLd
 yjh
 qUy
 axb
-yjh
+axb
 awb
 dYO
 axa
@@ -153706,7 +153717,7 @@ hzD
 lwu
 qUy
 axb
-gRm
+axb
 awb
 dYO
 axa
@@ -154473,8 +154484,8 @@ alw
 akK
 akJ
 avx
-awb
-lGJ
+eAW
+aes
 aes
 aes
 aes
@@ -155014,12 +155025,12 @@ aer
 ijN
 oBD
 vzB
-gXd
+eAW
 aes
 aes
 aes
-aes
-aes
+iNO
+iNO
 aes
 aer
 aoS
@@ -155274,9 +155285,9 @@ qIH
 awb
 aes
 aes
-aes
-aes
-aes
+gBy
+aBr
+aBr
 aes
 aer
 aoS
@@ -155501,7 +155512,7 @@ auS
 auT
 avn
 avx
-awb
+eAW
 aes
 aes
 aes
@@ -155531,9 +155542,9 @@ aer
 awb
 aes
 aes
-aes
-aes
-aes
+gBy
+aBr
+aBr
 aes
 aer
 aoS
@@ -155789,9 +155800,9 @@ aes
 aes
 aes
 aes
-aes
-aes
-aes
+raE
+raE
+eGn
 aer
 arD
 apk
@@ -156016,7 +156027,7 @@ aog
 aog
 aog
 awb
-lGJ
+aes
 aes
 aes
 aes
@@ -156048,7 +156059,7 @@ aes
 aes
 aes
 aes
-vDG
+aes
 aer
 aoS
 apk
@@ -156276,7 +156287,7 @@ awb
 aes
 aes
 aes
-aes
+eGn
 aer
 aMp
 aMp
@@ -157300,7 +157311,7 @@ auU
 avg
 uMI
 aog
-awb
+eAW
 aes
 aes
 aes
@@ -158586,8 +158597,8 @@ aoy
 apA
 aog
 awb
-lGJ
-awb
+aes
+eAW
 aes
 aes
 aer
@@ -218215,10 +218226,10 @@ aiD
 oEV
 aer
 aes
-aes
 aBr
 aBr
 dxH
+aes
 aes
 aes
 iyP
@@ -218472,10 +218483,10 @@ xMR
 ihr
 aer
 aes
-aes
 aBr
 aBr
 dxH
+aes
 aes
 aes
 vTX
@@ -218729,10 +218740,10 @@ klf
 ihr
 aEC
 aes
-aes
 aBr
 aBr
 dxH
+aes
 aes
 aes
 aes
@@ -218986,9 +218997,9 @@ aiD
 pwB
 aer
 aes
+raE
+raE
 aes
-raE
-raE
 aes
 aes
 aDb
@@ -220784,7 +220795,7 @@ bxz
 aiD
 aiD
 aEC
-jmF
+ayV
 aes
 aes
 aYj
